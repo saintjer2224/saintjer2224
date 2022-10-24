@@ -1,4 +1,3 @@
-### Hi there 👋
 -->
 # 💫 About Me:
 SAP guy-turned-DA geek
