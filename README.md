@@ -1,7 +1,7 @@
 # 💫 About Me:
 SAP guy - DA geek
 
-## Current profile: [CV.pdf](https://github.com/saintjer2224/saintjer2224/files/9852303/CV.pdf)
+## Current profile: 
 
 
 ## 🌐 Socials:
